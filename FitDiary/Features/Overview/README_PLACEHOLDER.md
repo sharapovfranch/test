@@ -1,0 +1,1 @@
+This folder contains the Overview tab components: OverviewView, DayRibbon, DonutProgress, and WeeksRibbon.
